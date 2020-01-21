@@ -3,7 +3,7 @@ import smtplib
 mail_sender = input("Enter the mail: ")
 password = input("Enter the password: ")
 
-mail_rec = input("Enter the recipients mail")
+mail_rec = input("Enter the recipients mail: ")
 
 message = """ Subject : Hello there
     Hey, welcome home. """
